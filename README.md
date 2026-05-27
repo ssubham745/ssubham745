@@ -1,16 +1,28 @@
 ## Hi there 👋
+# I'm Subham Saha 👋
 
-<!--
-**ssubham745/ssubham745** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Final-year Electronics & Telecommunication Engineering student passionate about AI, Machine Learning, Embedded Systems, and Full-Stack Development.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Tech Stack
+- Python
+- SQL
+- Streamlit
+- YOLOv8
+- CNN
+- Arduino
+- Scikit-learn
+
+---
+
+## 📌 Featured Projects
+- AI-Based Rotten Fruit Sorting System
+- Multiple Disease Prediction System
+- AI-Enhanced Smart Banking System
+
+---
+
+## 📫 Connect With Me
+- LinkedIn: https://linkedin.com/in/subham-saha-a152a71a0
+- Email: ssubham745@gmail.com

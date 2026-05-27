@@ -1,7 +1,7 @@
 ## Hi there 👋
 # I'm Subham Saha 👋
 
-Final-year Electronics & Telecommunication Engineering student passionate about AI, Machine Learning, Embedded Systems, and Full-Stack Development.
+Final-year Electronics & Telecommunication Engineering student passionate about AI, Machine Learning, Data Analytics, Data Scientist.
 
 ---
 
@@ -9,10 +9,11 @@ Final-year Electronics & Telecommunication Engineering student passionate about 
 - Python
 - SQL
 - Streamlit
+- Computer Vision
 - YOLOv8
 - CNN
-- Arduino
 - Scikit-learn
+- Python Libraries(Panda, Numpy, Matplotlib)
 
 ---
 

@@ -1,7 +1,7 @@
 ## Hi there 👋
 # I'm Subham Saha 👋
 
-Final-year Electronics & Telecommunication Engineering student passionate about AI, Machine Learning, Data Analytics, Data Scientist.
+Final-year Electronics & Telecommunication Engineering student passionate about AI, Machine Learning, Data Analytics, Data Science.
 
 ---
 
@@ -13,7 +13,7 @@ Final-year Electronics & Telecommunication Engineering student passionate about 
 - YOLOv8
 - CNN
 - Scikit-learn
-- Python Libraries(Panda, Numpy, Matplotlib)
+- Python Libraries(Pandas, Numpy, Matplotlib)
 
 ---
 

@@ -10,10 +10,11 @@ Final-year Electronics & Telecommunication Engineering student passionate about 
 - SQL
 - Streamlit
 - Computer Vision
-- YOLOv8
-- CNN
+- YOLO
 - Scikit-learn
 - Python Libraries(Pandas, Numpy, Matplotlib)
+- Machine Learning
+- Deep Learning
 
 ---
 
